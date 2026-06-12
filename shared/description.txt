@@ -1,0 +1,3 @@
+Host note:
+- Put quick setup steps here for your files.
+- This text appears on the page for everyone.

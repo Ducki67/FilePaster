@@ -1,0 +1,9 @@
+{
+  "port": "8080",
+  "bind_address": "0.0.0.0",
+  "advertise_host": "127.0.0.1", "//":"add ur radmin ip here",
+  "share_folder": "shared",
+  "password": "",
+  "peer_hosts": [],
+  "owner_credit": "YourName"
+}
