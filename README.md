@@ -56,6 +56,8 @@ Cross-build Linux binaries from Windows:
 ```
 
 ## Linux friend test
+NOTE: This was Not tested before so if there's any issue please let me know in the **issue** tickets!!
+
 
 1. Build Linux binaries on Windows with `./build-linux.ps1`.
 2. Send `FilePaster-linux-amd64` to your friend (or `FilePaster-linux-arm64` for ARM).
